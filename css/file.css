@@ -1,0 +1,16 @@
+.info {
+  font-family: "Helvetica";
+  margin : 0;
+  padding: 10px;
+  font-size: 20px;
+}
+#extra {
+    display: none;
+}
+
+#fb:hover #extra {
+    display: inline-block;
+}
+h.padding {
+    padding-left: 2cm;
+}
